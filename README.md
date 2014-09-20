@@ -1,5 +1,7 @@
 #### Bootstrap theme for Publify
 
+![Preview](https://raw.githubusercontent.com/publify/themes-bootstrap/master/images/large-preview.jpg)
+
 Bootstrap is a theme designed for the [Publify][1] blogging engine by [Frédéric
 de Villamil][2] using [Bootstrap][3] as a framework for other
 theme development. It was released under the MIT Licence. Any other
